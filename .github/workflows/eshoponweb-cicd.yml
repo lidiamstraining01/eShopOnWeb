@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 4c468a08-d56d-4b18-bf0c-82606844d9ae
-  WEBAPP-NAME: az400-webapp-LL
+  WEBAPP-NAME: az400-webapp-Lidia
 
 
 jobs:
